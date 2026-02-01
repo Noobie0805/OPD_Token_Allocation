@@ -176,6 +176,6 @@ Server runs on: http://localhost:3000
 ## Conclusion
 The OPD Token Allocation Engine provides a realistic, fairness-driven model for managing hospital outpatient queues. It demonstrates modular, extensible design – perfect for both academic study and real-world healthcare systems.
 
-**Author:** Your Name  
+**Author:** Sarvjeet 
 **License:** MIT  
 **Version:** 1.0.0
